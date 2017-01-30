@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Ian Enders</title>
+    <meta content='BJ-AxCSPNC8koVmBDKh5DbCcxjXmAU56jBf3Hsxqbuw' name='google-site-verification' />
+    <link href='style.css' media='screen' rel='stylesheet' type='text/css' />
+    <link rel="shortcut icon" href="favicon.ico?v=1" type="image/x-icon">
+    <link rel="icon" href="favicon.ico?v=1" type="image/x-icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    
+  </head>
+  <body>
+    <div class='content'>
+      <h1>Andrew</h1>
+      <p>I live in Upstate New York.</p>
+      <p>I am working on a class project.</p>
+      <p>I like movies </p>
+      <p>I have a beutiful,smart,intelligent wife</p>
+      <p>I want to have a dog,but my time is limited</p>
+      <p>Why are you still reading this?</p>
+      <p>A website needs content so im going to put content on it</p>
+      <p>really still reading?</p>
+      <p>there once was a man from petucket....thats the end of the story</p>
+      <p>Im not kiding his life was so boring that all he was was a man from petucket</p>
+      <p>although his best freind was a bucket</p>
+      <p>there is nothing left...seriously </p>
+      <p>go outside or something,life is short.</p>
+    </div>
+  </body>
+</html>
